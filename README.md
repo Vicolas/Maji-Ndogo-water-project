@@ -1,11 +1,11 @@
 # Maji-Ndogo-water-project
 SQL project to solve the water crisis in Maji Ndogo(A fictitious location), solving real-world problems.
 
-# Disclaimer:
-This project is part of a learning series in Data Science with ALX offered by Explore AI. The dataset and training document were provided by Explore AI.
-
 This project highlights the practical application of SQL in data exploration, cleaning, and analysis to address real-world problems in water quality and infrastructure. The detailed SQL queries and techniques demonstrated include data retrieval, aggregation, transformation, and ranking to provide actionable insights. This structured approach showcases the capability to handle large datasets, ensure data integrity, and derive meaningful conclusions to support decision-making in resource management.
 
+
+# Disclaimer:
+This project is part of a learning series in Data Science with ALX offered by Explore AI. The dataset and training document were provided by Explore AI.
 
 # Part 1: Water Quality in Maji Ndogo: A Data Exploration Using SQL
 In this first part of the project, I used a database of 60,000 records to examine the water quality in Maji Ndogo. The goal was to understand the data by getting an overview of each table and addressing inconsistencies. 
