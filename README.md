@@ -51,11 +51,11 @@ I checked the integrity of the data to ensure there was no contamination in well
 
 In some cases, it seemed that if the description field began with the word "Clean," the results were classified as "Clean" in the results column, even though the biological column was > 0.01.
 
-Accurate descriptions should only include the word "Clean" if there was no biological contamination. However, I identified inconsistencies in the records that mistakenly have the word 'Clean' in the description column by searching for the word Clean with additional characters after it. These additional characters separated incorrect descriptions from the records that should have "Clean."
+Accurate descriptions should only include "Clean" if there was no biological contamination. However, I identified inconsistencies in the records that mistakenly have the word 'Clean' in the description column by searching for the word Clean with additional characters after it. These additional characters separated incorrect descriptions from the records that should have "Clean."
 
-1. All records that mistakenly had Clean Bacteria: E. coli I updated to Bacteria: E. coli.
-2. All records that mistakenly had Clean Bacteria: Giardia Lamblia I updated to Bacteria: Giardia Lamblia.
-3. Allrecords that were clean remained clean, without any additional characterss after it.
+1. All records that mistakenly had Clean Bacteria: E. coli were updated to Bacteria: E. coli.
+2. All records that mistakenly had Clean Bacteria: Giardia Lamblia were updated to Bacteria: Giardia Lamblia.
+3. All records that were clean remained clean, without any additional characters after it.
 
 Also, the results column was updated from Clean to Contaminated: Biological, where the biological column had a value greater than 0.01.
 
