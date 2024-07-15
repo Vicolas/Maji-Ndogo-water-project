@@ -1,11 +1,11 @@
 # Maji-Ndogo-water-project
 
-# United Nations Sustainable Development Goal 6: Clean water and sanitation
+## United Nations Sustainable Development Goal 6: Clean water and sanitation
 Ensure availability and sustainable management of water and sanitation for all.
 
 Spreadsheet and SQL project to solve the water crisis in Maji Ndogo(A fictitious location), solving real-world problems.
 
-# Disclaimer:
+### Disclaimer:
 This project is part of a learning series in Data Science with ALX offered by Explore AI. The dataset and training document were provided by Explore AI.
 
 # Spreadsheet Analysis
@@ -20,7 +20,7 @@ The first part of this project focuses on inequalities in service levels between
 This project highlights the practical application of SQL in data exploration, cleaning, and analysis to address real-world problems in water quality and infrastructure. The detailed SQL queries and techniques demonstrated include data retrieval, aggregation, transformation, and ranking to provide actionable insights. This structured approach showcases the capability to handle large datasets, ensure data integrity, and derive meaningful conclusions to support decision-making in resource management.
 
 
-# Part 1: Water Quality in Maji Ndogo: A Data Exploration Using SQL
+### Part 1: Water Quality in Maji Ndogo: A Data Exploration Using SQL
 In this first part of the project, I used a database of 60,000 records to examine the water quality in Maji Ndogo. The goal was to understand the data by getting an overview of each table and addressing inconsistencies. 
 I queried the database to retrieve the first few records from each table and the overall information each table contained.
 Tables:
@@ -59,12 +59,12 @@ Accurate descriptions should only include the word "Clean" if there was no biolo
 
 Also, the results column was updated from Clean to Contaminated: Biological, where the biological column had a value greater than 0.01.
 
-# Key Insight:
+#### Key Insight:
 Identified contamination issues and corrected misclassified data to ensure accurate reporting.
 
 -----------------------------------------------------------------------------------------------
 
-# Part 2: Water Quality in Maji Ndogo: Clustering data to unveil Maji Ndogo's water crisis
+### Part 2: Water Quality in Maji Ndogo: Clustering data to unveil Maji Ndogo's water crisis
 Here, we begin by looking at some of the tables in the dataset at a larger scale, identifying some trends, summarising important data, and drawing insights. We then clean and update the data, starting with the employee table, which has information on the workers who put the data together. 
 
 The initial document did not include the email addresses of these employees. The emails needed to be added to this dataset so stakeholders could send employees reports and figures. 
@@ -130,7 +130,7 @@ pumps, and reservoirs.
 - Queues are longer in the mornings and evenings.
 - Wednesdays and Sundays have the shortest queues.
 
-# Key Insights:
+#### Key Insights:
 1. Identified that shared taps are the top priority for improvement due to the high number of users and long queue times.
 2. Highlighted the significant proportion of non-functional water infrastructure and the need for focused repair efforts.
 
