@@ -11,10 +11,10 @@ This project is part of a learning series in Data Science with ALX offered by Ex
 # Spreadsheet Analysis
 The first part of this project focuses on inequalities in service levels between different countries and regions. This two-part project was carried out using Google spreadsheet. To view each part, use the links provided below.
 
-<a href = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTihPTu7RDhLS7RkL1gZ-zgMy86tf2TvUW0s5CPelayIsH_Wtkfv1MSgWFvUFo-81wrD6Qj7btPOazT/pubhtml'> Part 1 </a>
+<a href = 'https://docs.google.com/spreadsheets/d/1Pzyn-or5p0ICnN5HdAyqzCcZdjQ4XcSKAIRn6HdtCVY/edit?usp=sharing'> Part 1 </a>
 
 
-<a href = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSSs-bA5byDd9RbvCVcNa1Z8J7K9ivWeBU_Mypvjo-6H21nPwLdckCyu45315651Jx-21VfJbT1ucrW/pubhtml'> Part 2 </a>
+<a href = 'https://docs.google.com/spreadsheets/d/1xTKpGcehjdYZ0fnVIGz9gB3xEPlsS_dRdIxA4VYyVm0/edit?usp=sharing'> Part 2 </a>
 
 # SQL
 This project highlights the practical application of SQL in data exploration, cleaning, and analysis to address real-world problems in water quality and infrastructure. The detailed SQL queries and techniques demonstrated include data retrieval, aggregation, transformation, and ranking to provide actionable insights. This structured approach showcases the capability to handle large datasets, ensure data integrity, and derive meaningful conclusions to support decision-making in resource management.
