@@ -1,15 +1,12 @@
-# Maji-Ndogo-water-project
+# Clean-water-project
 
 ## United Nations Sustainable Development Goal 6: Clean water and sanitation
 Ensure availability and sustainable management of water and sanitation for all.
 
-Spreadsheet and SQL project to solve the water crisis in Maji Ndogo(A fictitious location), solving real-world problems.
-
-### Disclaimer:
-This project is part of a learning series in Data Science with ALX offered by Explore AI. The dataset and training document were provided by Explore AI.
+A spreadsheet and SQL project to solve the water crisis, evaluate clean water and sanitation solutions in rural and urban areas, and implement sustainable clean water initiatives.
 
 # Spreadsheet Analysis
-The first part of this project focuses on inequalities in service levels between different countries and regions. This two-part project was carried out using Google spreadsheet. To view each part, use the links provided below.
+The first part of this project focuses on inequalities in service levels between different countries and regions. This two-part project was carried out using Google spreadsheet. To view each part, you can just use the links provided below.
 
 <a href = 'https://docs.google.com/spreadsheets/d/1Pzyn-or5p0ICnN5HdAyqzCcZdjQ4XcSKAIRn6HdtCVY/edit?usp=sharing'> Part 1 </a>
 
